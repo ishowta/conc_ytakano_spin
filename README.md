@@ -1,2 +1,3 @@
 # conc_ytakano_spin
-model check to conc_ytakano by SPIN
+
+Model checking for conc_ytakano using SPIN
